@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPattern.src.Momento;
+package DesignPatterns.BehaviouralPattern.src.Memento;
 
 // Originator class
 // the object whose state needs to be saved

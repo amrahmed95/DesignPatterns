@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPattern.src.Momento;
+package DesignPatterns.BehaviouralPattern.src.Memento;
 
 public class client {
     public static void main(String[] args) {

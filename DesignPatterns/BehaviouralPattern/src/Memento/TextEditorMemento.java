@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPattern.src.Momento;
+package DesignPatterns.BehaviouralPattern.src.Memento;
 
 // Memento class
 // The object used to capture and store the internal state of the Originator (TextEditor).

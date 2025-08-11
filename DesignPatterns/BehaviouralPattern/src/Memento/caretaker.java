@@ -1,4 +1,4 @@
-package DesignPatterns.BehaviouralPattern.src.Momento;
+package DesignPatterns.BehaviouralPattern.src.Memento;
 
 import java.util.Stack;
 
